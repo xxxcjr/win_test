@@ -1,0 +1,15 @@
+# File Name: readme.vtx
+# Created Time: 2013-09-17 星期二 19:31:37
+# Last Modified: 2013-09-20 星期五 14:24:09 [ATHENA]
+# Description: git文件夹下各目录对应的github网址
+# vim:fdm=marker:fmr=[[[,]]]:set ft=txt:set ff=unix
+# -------------------------------------------------------
+
+1.d:\git\vim\honza\vim-snippets\
+ https://github.com/honza/vim-snippets
+
+2.d:\git\vim\hotoo\vimrc\
+https://github.com/hotoo/vimrc
+
+3.d:\git\vimperator\vimperator-chinese-help\
+https://github.com/chenxsan/vimperator-chinese-help.git

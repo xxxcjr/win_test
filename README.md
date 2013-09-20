@@ -1,1 +1,2 @@
 练习使用TortoiseGit
+设置默认编辑器
